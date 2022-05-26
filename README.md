@@ -2,4 +2,4 @@
 
 My first repository on GitHub
 
-I love to play ⚽,watch 🎥 and 🍕. 
+I love to play :soccer: :dancer:, :pizza:. 
